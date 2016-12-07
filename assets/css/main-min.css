@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Lobster|Oswald:400,300,700|Vollkorn:700italic|Pacifico|Amatic+SC:400,700|Leckerli+One|Raleway:400,300,600,700,800,900|Pacifico);
-@import url(http://weloveiconfonts.com/api/?family=entypo);
+@import url(https://fonts.googleapis.com/css?family=Lobster|Oswald:400,300,700|Vollkorn:700italic|Pacifico|Amatic+SC:400,700|Leckerli+One|Raleway:400,300,600,700,800,900|Pacifico);
+@import url(https://weloveiconfonts.com/api/?family=entypo);
 [class*="entypo-"]:before {
     font-family: "entypo", sans-serif
 }
