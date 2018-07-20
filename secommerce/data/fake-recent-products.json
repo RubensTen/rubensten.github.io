@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Smartwatch V8 Reloj Ranura Chip Y Micro Sd",
+        "description": " Pantalla de 1.56 redonda * Resistente a brisas y salpicaduras(NO ES SUMERGIBLE)",
+        "price": 1000,
+        "images": [
+            "https://http2.mlstatic.com/smartwatch-v8-reloj-ranura-chip-y-micro-sd-D_NQ_NP_847140-MLM26954663944_032018-O.webp",
+            "https://http2.mlstatic.com/smartwatch-v8-reloj-ranura-chip-y-micro-sd-D_NQ_NP_905329-MLM26954669417_032018-O.webp"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Monitor Curvo Samsung 24 Pulgadas Led Hdmi Full Hd Nuevo",
+        "description": "Descubre una verdadera experiencia inmersiva con el monitor curvo de Samsung",
+        "price": 1000,
+        "images": [
+            "https://http2.mlstatic.com/monitor-curvo-samsung-24-pulgadas-led-hdmi-full-hd-nuevo-D_NQ_NP_897923-MLM27263144879_042018-O.webp",
+            "https://http2.mlstatic.com/samsung-led-monitor-D_NQ_NP_769800-MLM27263139964_042018-O.webp",
+            "https://http2.mlstatic.com/monitor-samsung-led-D_NQ_NP_956621-MLM27263144365_042018-O.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Balón adidas Futbol Selección Mexicana No.4 Soy Mexico",
+        "description": "PRECIO MAYOREO $465 / A partir de 3 pzas en adelante.",
+        "price": 1000,
+        "images": [
+            "https://http2.mlstatic.com/balon-adidas-futbol-seleccion-mexicana-no4-soy-mexico-D_NQ_NP_631066-MLM27394258354_052018-O.webp",
+            "https://http2.mlstatic.com/balon-adidas-futbol-seleccion-mexicana-no4-soy-mexico-D_NQ_NP_826891-MLM27394266778_052018-F.webp"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Lentes De Sol Hawkers - Frozen Grey Nebula One",
+        "description": "La colección One se define por sus modelos de lentes de sol con un armazón inconfundible",
+        "price": 1000,
+        "images": [
+            "https://http2.mlstatic.com/lentes-sol-hawkers-D_NQ_NP_719783-MLM25599957194_052017-F.webp",
+            "https://http2.mlstatic.com/lentes-de-sol-hawkers-frozen-grey-nebula-one-D_NQ_NP_644782-MLM25599954315_052017-F.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Licuadora Ninja 900w Profesional 2.1/1.1 Lts Bl701 Reacondic",
+        "description": "Cumpliendo al 100% los más altos estándars de calidad",
+        "price": 1000,
+        "images": [
+            "https://http2.mlstatic.com/licuadora-ninja-900w-profesional-2111-lts-bl701-reacondic-D_NQ_NP_881707-MLM26388500124_112017-F.webp",
+            "https://http2.mlstatic.com/licuadora-ninja-900w-profesional-2111-lts-bl701-reacondic-D_NQ_NP_779352-MLM26388492482_112017-F.webp"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Smart watch",
+        "description": "Lorem ipsum dolor",
+        "price": 1000,
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/61rPHfR6c5L._SX679_.jpg"
+        ]
+    }
+]
